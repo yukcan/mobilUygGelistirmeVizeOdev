@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337020828325",
+    "project_id": "crudmasterclass",
+    "storage_bucket": "crudmasterclass.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337020828325:android:e6316e645629a2badfab4c",
+        "android_client_info": {
+          "package_name": "com.example.crud_masterclass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGpc7B0XfFf-UF8-j9s3E-4QvSv7LAQzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
